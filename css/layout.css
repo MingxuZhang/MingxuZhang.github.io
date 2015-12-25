@@ -414,7 +414,7 @@ ul#nav li.current a { color: #F06000; }
 #selected-publications {
    background: #ebeeee;
    padding-top: 70px;
-   padding-bottom: 60px;
+   padding-bottom: 10px;
 }
 
 #selected-publications .row-wrap{
@@ -453,8 +453,8 @@ ul#nav li.current a { color: #F06000; }
 
 #contact {
    background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   padding-top: 230px;
+   padding-bottom: 210px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
